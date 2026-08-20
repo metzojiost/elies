@@ -1,0 +1,5 @@
+{
+  "owner_tree_estimate_low": 400,
+  "owner_tree_estimate_high": 500,
+  "owner_tree_estimate_note": "Owner's own rough on-the-ground estimate for the whole property. Satellite/algorithmic detection is a known undercount — dense or touching canopies read as a single blob, and trees hidden under weeds/overgrowth (flagged in several Platanaki parcel notes) aren't visible from above at all. Treat the site's computed satellite total as a floor, not the real number; the owner's field-based count is the one to trust as parcels get walked and corrected."
+}

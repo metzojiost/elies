@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Olive Grove Archive</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+  <aside class="sidebar">
+    <div class="sidebar-header">
+      <h1>Olive Grove Archive</h1>
+      <p class="subtitle">Sfaka, Lasithi, Crete</p>
+    </div>
+    <div id="parcel-list" class="parcel-list"></div>
+    <div class="sidebar-footer">
+      <span id="totals"></span>
+    </div>
+  </aside>
+
+  <main class="detail" id="detail">
+    <div class="empty-state">
+      <p>Select a parcel from the list to see its details.</p>
+    </div>
+  </main>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

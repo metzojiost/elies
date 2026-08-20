@@ -1,0 +1,6 @@
+.claude/
+.claude-flow/
+__pycache__/
+*.pyc
+.venv/
+venv/

@@ -1,0 +1,14 @@
+HOW TO GET BACK TO THIS CHAT
+=============================
+
+1. Open a terminal and go to this folder:
+
+   cd "C:\Users\hpuser\Desktop\olive manager"
+
+2. Resume this exact conversation:
+
+   claude --resume 2cd6aca0-51ce-4abd-842e-5da55c758887
+
+(If that session ID ever stops working, just run "claude" in this folder
+to start a new chat — read farm-overview.md first so it has full context
+on the parcels, the site, and everything mapped so far.)
